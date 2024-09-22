@@ -1,5 +1,7 @@
 # SparkLab
-SparkLab's AI Software Design and Development Bootcamp
+[introduction](https://mp.weixin.qq.com/s/l1eWkjhpR9t2h2XSfZOGMQ)
+
+**SparkLab's AI Software Design and Development Bootcamp**
 
 Welcome to the SparkLab's AI Software Design and Development Bootcamp repository! This repository serves as a comprehensive resource for participants in the bootcamp, providing essential project requirements, code samples, and additional materials to support your learning journey.
 
