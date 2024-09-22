@@ -5,7 +5,7 @@
 
 Welcome to the SparkLab's AI Software Design and Development Bootcamp repository! This repository serves as a comprehensive resource for participants in the bootcamp, providing essential project requirements, code samples, and additional materials to support your learning journey.
 
-## Repository Contents
+## Repo Contents
 
 - **Project Requirements**: Detailed specifications and guidelines for the projects you will undertake during the bootcamp.
 - **Code Samples**: Example code snippets and complete projects to illustrate key concepts and best practices in software design and development.
